@@ -11,6 +11,7 @@ Stakeholders want the following insights in the dashboard:
 4. Manager wise analysis
 5. Customer coverage across various Locations
 6. Target Analysis
+
 These are some of the points stakeholders needed. Also, add your own insights to it.
 
 Dataset Link: https://drive.google.com/drive/folders/1IuZyEBrR2s64N0mlynwLZKLcWTIKCIvP?usp=sharing
